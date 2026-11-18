@@ -1,16 +1,18 @@
-## Hi there 👋
+### yo, i'm uyle
 
-<!--
-**m-uyle/m-uyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Multidisciplinary Designer* skilled in Producе and Graphic Design (Branding, Advertising, Illustration, and Print)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My current github projects
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **“Your Life in…”** | Interactive visualization of a human life across multiple scales: seconds, minutes, hours, days, weeks, months, and years. | [Site](https://m-uyle.github.io/Your-Life-in) • [Repository](https://github.com/m-uyle/Your-Life-in) |
+| **Shakalizator** | In-browser batch image compression and converter tool with visual comparison. | [Site](https://m-uyle.github.io/Shakalizator/) • [Repository]([https://...](https://github.com/m-uyle/Shakalizator)) |
+
+---
+
+## External Links
+
+[Telegram Channel](https://t.me/m_uyle)

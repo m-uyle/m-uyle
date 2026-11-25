@@ -1,8 +1,4 @@
-### yo, i'm uyle
-
-*Multidisciplinary Designer* skilled in Product and Graphic Design (Branding, Advertising, Illustration, Print)
-
-## My current github projects
+## Current github projects
 
 | Project | Description | Links | Repository |
 | :--- | :--- | :--- | :--- |
